@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Me from "../../Assets/images/me.jpg";
 // Experiences
 import Founded from "../../Assets/images/founded.png";
 import ValidusResearch from "../../Assets/images/validusResearch.png";
