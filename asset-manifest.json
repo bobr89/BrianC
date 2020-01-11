@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BrianC/static/css/main.ad4e3930.chunk.css",
+    "main.js": "/BrianC/static/js/main.8ecc63e0.chunk.js",
+    "main.js.map": "/BrianC/static/js/main.8ecc63e0.chunk.js.map",
+    "runtime-main.js": "/BrianC/static/js/runtime-main.a80f843c.js",
+    "runtime-main.js.map": "/BrianC/static/js/runtime-main.a80f843c.js.map",
+    "static/js/2.70f2bfe0.chunk.js": "/BrianC/static/js/2.70f2bfe0.chunk.js",
+    "static/js/2.70f2bfe0.chunk.js.map": "/BrianC/static/js/2.70f2bfe0.chunk.js.map",
+    "index.html": "/BrianC/index.html",
+    "precache-manifest.4d16753f79ba716653531b9bffe8f448.js": "/BrianC/precache-manifest.4d16753f79ba716653531b9bffe8f448.js",
+    "service-worker.js": "/BrianC/service-worker.js",
+    "static/css/main.ad4e3930.chunk.css.map": "/BrianC/static/css/main.ad4e3930.chunk.css.map",
+    "static/js/2.70f2bfe0.chunk.js.LICENSE": "/BrianC/static/js/2.70f2bfe0.chunk.js.LICENSE",
+    "static/media/cineplex.png": "/BrianC/static/media/cineplex.61120cfd.png",
+    "static/media/harvard.png": "/BrianC/static/media/harvard.c2e2c43b.png",
+    "static/media/me.jpg": "/BrianC/static/media/me.d57a4874.jpg",
+    "static/media/microsoft.jpg": "/BrianC/static/media/microsoft.4f424af2.jpg",
+    "static/media/resume.pdf": "/BrianC/static/media/resume.55c5a170.pdf",
+    "static/media/uw.jpg": "/BrianC/static/media/uw.b9e42c0e.jpg",
+    "static/media/validusResearch.png": "/BrianC/static/media/validusResearch.1b6e8a83.png",
+    "static/media/via.png": "/BrianC/static/media/via.24fb9113.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80f843c.js",
+    "static/js/2.70f2bfe0.chunk.js",
+    "static/css/main.ad4e3930.chunk.css",
+    "static/js/main.8ecc63e0.chunk.js"
+  ]
+}
