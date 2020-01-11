@@ -16,7 +16,7 @@ class MoreAboutMe extends Component {
       <div className="container-fluid">
         <h1>Experience</h1>
         <div className="experiences">
-          <img className="Founded" src={Founded} />
+          <img className="Founded" src={Founded} alt="founded" />
           <ul>
             <h6>Software Engineer</h6>
             <li>

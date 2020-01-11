@@ -1,5 +1,11 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  HashRouter,
+  Route,
+  Link,
+  Switch
+} from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
 // components
@@ -14,9 +20,8 @@ import "./Assets/css/default.min.css";
 class App extends Component {
   render() {
     return (
-      <Router>
+      <HashRouter basename="/">
         <div className="App">
-          {/* <Header /> */}
           <div className="box-1">
             <h4>Hello!</h4>
           </div>
@@ -24,9 +29,8 @@ class App extends Component {
             <Route exact path="/" component={Homepage}></Route>
             <Route exact path="/MoreAboutMe" component={MoreAboutMe}></Route>
           </div>
-          {/* <Footer /> */}
         </div>
-      </Router>
+      </HashRouter>
     );
   }
 }

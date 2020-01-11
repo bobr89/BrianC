@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Me from "../../Assets/images/me.jpg";
 import Resume from "../../Assets/docs/resume.pdf";
 
 class Homepage extends Component {
